@@ -3,4 +3,14 @@
  */
 
 @import 'normalize.scss';
+@import './helpers/fonts.scss';
+@import './helpers/placeholder.scss';
 @import 'base.scss';
+
+@import './sections/components/container.scss';
+@import './helpers/variables.scss';
+
+@import './sections/header.scss';
+@import './sections/services.scss';
+@import './sections/team.scss';
+@import './sections/footer.scss';
